@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Help Ahmad Rebuild His Life",
+    "name": "Ahmad Hassan",
+    "bio": "Ahmad is a 34-year-old father of three who fled Syria with his family. He's now working to rebuild their lives and provide education for his children.",
+    "goal": 15000,
+    "amountRaised": 8750,
+    "link": "https://gofundme.com/ahmad-rebuild"
+  },
+  {
+    "id": "2",
+    "title": "Mental Health Support for Sarah",
+    "name": "Sarah M.",
+    "bio": "Sarah is seeking therapy and treatment for anxiety and depression. Your support helps her access the mental health care she needs.",
+    "goal": 5000,
+    "amountRaised": 2100,
+    "link": "https://gofundme.com/sarah-mental-health"
+  },
+  {
+    "id": "3",
+    "title": "Emergency Aid for Displaced Family",
+    "name": "Anonymous",
+    "bio": "A family displaced by conflict needs immediate assistance for shelter, food, and basic necessities.",
+    "goal": 10000,
+    "amountRaised": 6200,
+    "link": "https://gofundme.com/emergency-aid"
+  }
+]
+

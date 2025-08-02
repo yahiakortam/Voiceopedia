@@ -1,0 +1,212 @@
+/* Mobile-specific styles for Capacitor app */
+
+/* Prevent text selection on buttons */
+button, a {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Better touch targets */
+button, a, input, textarea {
+  min-height: 44px; /* iOS recommended touch target size */
+}
+
+/* Prevent zoom on input focus */
+input, textarea {
+  font-size: 16px; /* Prevents zoom on iOS */
+}
+
+/* Better scrolling */
+* {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Safe area for notched devices */
+.safe-area-top {
+  padding-top: env(safe-area-inset-top);
+}
+
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.safe-area-left {
+  padding-left: env(safe-area-inset-left);
+}
+
+.safe-area-right {
+  padding-right: env(safe-area-inset-right);
+}
+
+/* Mobile-specific button styles */
+.mobile-button {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Better mobile navigation */
+.mobile-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  border-top: 1px solid #e5e7eb;
+  padding: 10px 0;
+  padding-bottom: calc(10px + env(safe-area-inset-bottom));
+  z-index: 1000;
+}
+
+/* Mobile-friendly form inputs */
+.mobile-input {
+  font-size: 16px;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid #d1d5db;
+  background: white;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mobile-input:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* Mobile-friendly cards */
+.mobile-card {
+  border-radius: 16px;
+  padding: 20px;
+  margin: 10px 0;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Better mobile spacing */
+.mobile-container {
+  padding: 16px;
+  padding-top: calc(16px + env(safe-area-inset-top));
+  padding-bottom: calc(16px + env(safe-area-inset-bottom));
+}
+
+/* Mobile-optimized audio recording */
+.mobile-audio-recorder {
+  padding: 24px;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.mobile-record-button {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mobile-record-button:active {
+  transform: scale(0.95);
+}
+
+/* Mobile-friendly tags */
+.mobile-tag {
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 4px;
+  display: inline-block;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mobile-tag:active {
+  transform: scale(0.95);
+}
+
+/* Mobile-optimized search */
+.mobile-search {
+  position: relative;
+  margin: 16px 0;
+}
+
+.mobile-search input {
+  width: 100%;
+  padding: 16px 20px 16px 50px;
+  border-radius: 25px;
+  border: 1px solid #e5e7eb;
+  font-size: 16px;
+  background: white;
+}
+
+.mobile-search-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #6b7280;
+}
+
+/* Mobile-friendly list items */
+.mobile-list-item {
+  padding: 16px;
+  border-radius: 12px;
+  margin: 8px 0;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+}
+
+.mobile-list-item:active {
+  transform: scale(0.98);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobile-optimized buttons */
+.mobile-primary-button {
+  background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+  color: white;
+  padding: 16px 24px;
+  border-radius: 12px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+  margin: 8px 0;
+}
+
+.mobile-primary-button:active {
+  transform: scale(0.98);
+}
+
+.mobile-secondary-button {
+  background: white;
+  color: #3b82f6;
+  padding: 16px 24px;
+  border-radius: 12px;
+  border: 2px solid #3b82f6;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+  margin: 8px 0;
+}
+
+.mobile-secondary-button:active {
+  transform: scale(0.98);
+  background: #f8fafc;
+} 

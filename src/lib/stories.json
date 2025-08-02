@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "The Refugee's Journey",
+    "description": "A poignant story of a refugee's arduous journey to find safety and a new home.",
+    "duration": "3:45",
+    "tags": ["#refugee", "#journey", "#hope"],
+    "country": "Syria",
+    "audio_url": "/assets/audio1.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Overcoming Anxiety",
+    "description": "An intimate account of one person's struggle with and triumph over mental health challenges.",
+    "duration": "5:10",
+    "tags": ["#mentalhealth", "#anxiety", "#wellness"],
+    "country": "USA",
+    "audio_url": "/assets/audio2.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Life in a War Zone",
+    "description": "A harrowing first-hand narrative of daily life amidst conflict and uncertainty.",
+    "duration": "4:20",
+    "tags": ["#war", "#conflict", "#resilience"],
+    "country": "Ukraine",
+    "audio_url": "/assets/audio3.mp3"
+  }
+]
+

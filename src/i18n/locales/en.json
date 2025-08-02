@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "report": "Report",
+    "resources": "Resources",
+    "about": "About"
+  },
+  "home": {
+    "title": "Voiceopedia",
+    "subtitle": "Voices that matter. Stories from around the world.",
+    "exploreStories": "Explore Stories",
+    "submitReport": "Submit a Report",
+    "storiesShared": "Stories Shared",
+    "fundsRaised": "Funds Raised",
+    "featuredStories": "Featured Stories",
+    "featuredDescription": "Discover powerful voices sharing their experiences, struggles, and triumphs from around the globe. Every story matters, every voice deserves to be heard.",
+    "startExploring": "Start exploring"
+  },
+  "explore": {
+    "title": "Explore Stories",
+    "searchPlaceholder": "Search by title, tags, or country...",
+    "listen": "Listen",
+    "support": "Support",
+    "noResults": "No stories found matching your search.",
+    "tryAdjusting": "Try adjusting your search terms."
+  },
+  "listen": {
+    "backToExplore": "Back to Explore",
+    "description": "Description",
+    "tags": "Tags",
+    "supportPerson": "Support this person"
+  },
+  "support": {
+    "backToStory": "Back to Story",
+    "raised": "raised",
+    "goal": "goal",
+    "funded": "funded",
+    "supporters": "supporters",
+    "daysLeft": "Days left",
+    "about": "About",
+    "donateDemo": "Donate Now (Demo)",
+    "demoNote": "This is a demo application. No actual donations will be processed.",
+    "viewGoFundMe": "View on GoFundMe"
+  },
+  "report": {
+    "title": "Submit a Report",
+    "subtitle": "Share your story with the world",
+    "titleField": "Title",
+    "titlePlaceholder": "Give your story a title",
+    "voiceRecording": "Voice Recording",
+    "tapToRecord": "Tap to record",
+    "recording": "Recording...",
+    "recordingProgress": "Recording in progress",
+    "recordingNote": "Record your voice to share your story (Demo feature)",
+    "description": "Description",
+    "descriptionPlaceholder": "Tell us more about your story...",
+    "country": "Country",
+    "countryPlaceholder": "Where are you from?",
+    "tags": "Tags",
+    "selectTags": "Select relevant tags:",
+    "addCustomTag": "Add custom tag",
+    "selectedTags": "Selected tags:",
+    "gofundmeLink": "GoFundMe Link (Optional)",
+    "gofundmePlaceholder": "https://gofundme.com/your-campaign",
+    "gofundmeNote": "If you have a fundraising campaign, you can link it here",
+    "submitStory": "Submit Story"
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "Support services and assistance",
+    "noResources": "No resources available yet.",
+    "checkBack": "Check back soon for support services.",
+    "hours": "Hours:",
+    "visitWebsite": "Visit Website",
+    "errorLoading": "Error loading resources"
+  },
+  "organization": {
+    "title": "Our Organization",
+    "subtitle": "Making a difference",
+    "mission": "Our Mission",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "hoursOperation": "Hours of Operation",
+    "visitWebsite": "Visit our website",
+    "followTwitter": "Follow us on Twitter",
+    "followInstagram": "Follow us on Instagram",
+    "notAvailable": "Organization information not available.",
+    "checkLater": "Please check back later.",
+    "errorLoading": "Error loading organization information"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "required": "Required",
+    "optional": "Optional"
+  }
+}
+

@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "explore": "Explorar",
+    "report": "Reportar",
+    "resources": "Recursos",
+    "about": "Acerca de"
+  },
+  "home": {
+    "title": "Voiceopedia",
+    "subtitle": "Voces que importan. Historias de todo el mundo.",
+    "exploreStories": "Explorar Historias",
+    "submitReport": "Enviar un Reporte",
+    "storiesShared": "Historias Compartidas",
+    "fundsRaised": "Fondos Recaudados",
+    "featuredStories": "Historias Destacadas",
+    "featuredDescription": "Descubre voces poderosas compartiendo sus experiencias, luchas y triunfos de todo el mundo. Cada historia importa, cada voz merece ser escuchada.",
+    "startExploring": "Comenzar a explorar"
+  },
+  "explore": {
+    "title": "Explorar Historias",
+    "searchPlaceholder": "Buscar por título, etiquetas o país...",
+    "listen": "Escuchar",
+    "support": "Apoyar",
+    "noResults": "No se encontraron historias que coincidan con tu búsqueda.",
+    "tryAdjusting": "Intenta ajustar tus términos de búsqueda."
+  },
+  "listen": {
+    "backToExplore": "Volver a Explorar",
+    "description": "Descripción",
+    "tags": "Etiquetas",
+    "supportPerson": "Apoyar a esta persona"
+  },
+  "support": {
+    "backToStory": "Volver a la Historia",
+    "raised": "recaudado",
+    "goal": "objetivo",
+    "funded": "financiado",
+    "supporters": "seguidores",
+    "daysLeft": "Días restantes",
+    "about": "Acerca de",
+    "donateDemo": "Donar Ahora (Demo)",
+    "demoNote": "Esta es una aplicación de demostración. No se procesarán donaciones reales.",
+    "viewGoFundMe": "Ver en GoFundMe"
+  },
+  "report": {
+    "title": "Enviar un Reporte",
+    "subtitle": "Comparte tu historia con el mundo",
+    "titleField": "Título",
+    "titlePlaceholder": "Dale un título a tu historia",
+    "voiceRecording": "Grabación de Voz",
+    "tapToRecord": "Toca para grabar",
+    "recording": "Grabando...",
+    "recordingProgress": "Grabación en progreso",
+    "recordingNote": "Graba tu voz para compartir tu historia (Función de demostración)",
+    "description": "Descripción",
+    "descriptionPlaceholder": "Cuéntanos más sobre tu historia...",
+    "country": "País",
+    "countryPlaceholder": "¿De dónde eres?",
+    "tags": "Etiquetas",
+    "selectTags": "Selecciona etiquetas relevantes:",
+    "addCustomTag": "Agregar etiqueta personalizada",
+    "selectedTags": "Etiquetas seleccionadas:",
+    "gofundmeLink": "Enlace de GoFundMe (Opcional)",
+    "gofundmePlaceholder": "https://gofundme.com/tu-campaña",
+    "gofundmeNote": "Si tienes una campaña de recaudación de fondos, puedes enlazarla aquí",
+    "submitStory": "Enviar Historia"
+  },
+  "resources": {
+    "title": "Recursos",
+    "subtitle": "Servicios de apoyo y asistencia",
+    "noResources": "Aún no hay recursos disponibles.",
+    "checkBack": "Vuelve pronto para ver servicios de apoyo.",
+    "hours": "Horarios:",
+    "visitWebsite": "Visitar Sitio Web",
+    "errorLoading": "Error al cargar recursos"
+  },
+  "organization": {
+    "title": "Nuestra Organización",
+    "subtitle": "Haciendo la diferencia",
+    "mission": "Nuestra Misión",
+    "aboutUs": "Acerca de Nosotros",
+    "contactUs": "Contáctanos",
+    "followUs": "Síguenos",
+    "hoursOperation": "Horarios de Operación",
+    "visitWebsite": "Visita nuestro sitio web",
+    "followTwitter": "Síguenos en Twitter",
+    "followInstagram": "Síguenos en Instagram",
+    "notAvailable": "Información de la organización no disponible.",
+    "checkLater": "Por favor, vuelve más tarde.",
+    "errorLoading": "Error al cargar información de la organización"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "required": "Requerido",
+    "optional": "Opcional"
+  }
+}
+
