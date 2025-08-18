@@ -1,6 +1,5 @@
 # 🎤 Voiceopedia - Mobile App
 
-**Voices that matter. Stories from around the world.**
 
 Voiceopedia is a cross-platform mobile application that amplifies diverse voices and fosters a global community. Users can share their personal experiences through audio recordings and listen to stories from around the world.
 
@@ -232,4 +231,3 @@ If you have any questions or need help:
 
 ---
 
-**Made with ❤️ for amplifying voices around the world** 
